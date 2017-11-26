@@ -11,6 +11,11 @@
             "email": "dz@heroku.com"
         }
     ],
+    {
+  "require": {
+    "php": "~7.0.0"
+        }
+    },
     "bin": [
         "bin/heroku-hhvm-apache2",
         "bin/heroku-hhvm-nginx",
