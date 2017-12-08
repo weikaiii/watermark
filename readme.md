@@ -1,2 +1,2 @@
 # Watermarking Online Project
-This project is being edited for our peoject use
+This project is being edited for our project use
