@@ -3,7 +3,7 @@
 		"type": "package",
 		"package": {
 			"name": "SCMGroup6/watermark",
-			"version": "development",
+			"version": "1.0",
 			"source": {
 				"url": "https://github.com/SCMGroup6/watermark.git",
 				"type": "git",
