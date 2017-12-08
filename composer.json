@@ -1,0 +1,24 @@
+{
+	"repositories": [{
+		"type": "package",
+		"package": {
+			"name": "SCMGroup6/watermark",
+			"version": "development",
+			"source": {
+				"url": "https://github.com/SCMGroup6/watermark.git",
+				"type": "git",
+				"reference": "development"
+			}
+		}
+	}],
+	"require": {
+		"php": "~7.1.0",
+		"ext-gd": "*"
+	},
+	"bin": [
+		"bin/heroku-hhvm-apache2",
+		"bin/heroku-hhvm-nginx",
+		"bin/heroku-php-apache2",
+		"bin/heroku-php-nginx"
+	]
+}
