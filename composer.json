@@ -11,10 +11,10 @@
         }
     ],
    
-  "require": {
+  "require": [{
     "php": "~7.1.0",
 	"ext-gd": "*"
-        },
+        }],
     "bin": [
         "bin/heroku-hhvm-apache2",
         "bin/heroku-hhvm-nginx",
