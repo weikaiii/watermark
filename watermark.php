@@ -6,7 +6,7 @@
 	$DirPath = 'results';					// watermarked images destination
 	$erroroutput = "";						//custom error for uploaded not jpg
 	
-    
+    //Beginning of image posting
     if(isset($_POST['process'])){
 		$original=$_FILES['filejpg']['tmp_name'];
         // an image has been posted, let's get to the nitty-gritty
